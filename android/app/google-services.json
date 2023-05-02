@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "249872538997",
+    "project_id": "fluttermodavat",
+    "storage_bucket": "fluttermodavat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249872538997:android:4b1ec36cba57219f60873c",
+        "android_client_info": {
+          "package_name": "com.modavat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249872538997-du40qhpbe8uqs47e7otlh3ibu1csm0v2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.modavat.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "249872538997-cmp2evf8fov1npdlf93k6oh5ndd5vatm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkjY1WRKp1cdSGEfH3K9wF_Hj_fgCX7ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249872538997-cmp2evf8fov1npdlf93k6oh5ndd5vatm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "249872538997-98tsekusprct4vlkipp86vu742isrt2m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.modavat.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
